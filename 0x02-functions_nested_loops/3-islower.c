@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _islower shows 1 if the input is a
- * lowercase character. It also, shows
- * 0 in another cases.
+ * _islower - Shows 1 if the input is a
+ * lowercase character. Another cases, shows
+ * 0
  *
  * @c: The character in ASCII code
  *
