@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _isalpha shows 1 if the input is a
- * letter and then , shows 0 if it input is not a letter.
+ * _isalpha - Shows 1 if the input is a
+ * letter Another cases, shows 0
  *
  * @c: The character in ASCII code
  *
