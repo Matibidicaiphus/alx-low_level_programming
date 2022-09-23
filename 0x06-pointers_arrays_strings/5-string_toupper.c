@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * string_toupper - function changes all lowercase letters 
+ * string_toupper - changes all lowercase letters 
  * of a string to uppercase.
  * @s: input string.
  * Return: the pointer to dest.
